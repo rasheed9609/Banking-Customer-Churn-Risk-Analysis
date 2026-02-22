@@ -59,4 +59,4 @@ End-To-End Banking Customer churn &amp; Risk Analysis Using Excel, Sql, And Powe
 ![Executive Overview](screenshorts/page1.png)
 
 ### Page 2 – Risk Drilldown
-![Risk Drilldown](screenshots/page2.png)
+![Risk Drilldown](screenshorts/page2.png)
