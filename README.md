@@ -39,6 +39,18 @@ End-To-End Banking Customer churn &amp; Risk Analysis Using Excel, Sql, And Powe
 - Increase engagement campaigns for inactive customers.
 - Provide loyalty benefits for high-balance customers.
 
+---
+
+## Data Cleaning (Excel)
+
+- Removed unnecessary columns (RowNumber, CustomerId, Surname)
+- Handled data validation
+- Created Age_Group segmentation
+- Created Balance_Category segmentation
+- Created Risk_Level classification
+- Ensured no missing or duplicate values
+
+
 --
 
 ## Dashboard Screenshorts
