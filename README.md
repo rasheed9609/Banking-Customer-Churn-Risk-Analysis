@@ -5,12 +5,30 @@ End-To-End Banking Customer churn &amp; Risk Analysis Using Excel, Sql, And Powe
 
 ---
 
+### Executive Summary 
+This case study analyzes customer churn behavior in a retail banking environment to quanify financial risk and identify high-risk customer segements.
+
+The analysis reveals that while senior customers exhibit the highest churn rate proportionally, Adult xustomers contribute the highest churn volume due to their large population base.
+Additionally, Revenue-at-risk analysis shows that certain high-risk customer groups could lead to major financial losses if not addressed.
+
+Focusing on the customers most likely to leave can help reduce churn and keep revenue stable over time.
+
+---
+
+### Business Questions
+- Which customer segment has the highest churn rate ?
+- Which segment contribute the highest churn volume ?
+- What is the financial exposure from churned custmers ?
+- Should retention strategy focus on high percentage risk or high volume impact ?
+
+---
+
 ## Tools Used
 - Excel (Data Cleaning & Feature Engineering)
 - SQL (Business Analysis & Queries)
 - Power BI (Dashboard & Visualization)
 - DAX (KPI Calculations)
-
+ 
 ---
 
 ## Key KPIs
@@ -49,7 +67,6 @@ End-To-End Banking Customer churn &amp; Risk Analysis Using Excel, Sql, And Powe
 - Created Balance_Category segmentation
 - Created Risk_Level classification
 - Ensured no missing or duplicate values
-
 
 --
 
